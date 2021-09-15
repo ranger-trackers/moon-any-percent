@@ -1,0 +1,22 @@
+:::tracker[species="Popplio" generation=7  baseStats="[[50, 54, 54, 66, 56, 40], [60, 69, 69, 91, 81, 50], [80, 74, 74, 126, 116, 60]"}
+:5
+6 -> 0,   0,   0,   0,    0,   1, #Litten (1 Spd)
+7 -> 0,   1,   0,   0,    0,   2, #Pikipek (1 Atk), Rattata (1 Spd)
+8 -> 0,   1,   0,   0,    1,   3, #Pichu (1 Spd), Litten (1 Spd)
+9 -> 0,   1,   2,   0,    1,   3, #Metapod (2 Def)
+10 -> 0,   1,   3,   0,    1,   3, #Bonsly (1 Def)
+11 -> 1,   2,   3,   0,    1,   3, #Pikipek (1 Atk), Grimer (1 HP)
+12 -> 1,   2,   3,   1,    2,   4, #Magnemite (1 Sp.Atk), Meowth (1 Spd), Zubat (1 Spd)
+13 -> 1,   3,   3,   1,    2,   5, #Yungoos (1 Atk), Smeargle (1 Spd)
+14 -> 1,   3,   3,   1,    3,   8, #Spearow (1 Spd), Drowzee (1 Sp.Def), 2 Rattata (2 Spd)
+15 -> 1,   3,   3,   1,    4,   10, #Drowzee (1 Sp.Def), Raticate (2 Spd)
+16 -> 1,   3,   3,   1,    4,   16, #Rattata (2 Spd), Raticate (4 Spd)
+17 -> 2,   5,   3,   1,    4,   16, #Mankey (1 Atk), Makuhita (1 HP), Crabrawler (1 Atk)
+18 -> 2,   5,   3,   3,    4,   17, #Delibird (1 Spd), Glaceon (2 Sp.Atk)
+19 -> 5,   5,   3,   3,    4,   18, #Zubat (1 Spd), Type: Null (2 HP)
+20 -> 9,   5,   3,   3,    4,   18, #2 Wishiwashi (4 HP)
+21 -> 9,   7,   3,   3,    4,   18, #Lillipup (1 Atk), Growlithe (1 Atk)
+22 -> 9,   7,   5,   5,    5,   18, #Drowzee (1 Sp.Def), Marowak (2 Def), Magmar (2 Sp.Atk)
+23 -> 9,   7,   5,   5,    5,   22, #Salazzle (4 Spd)
+24 -> 9,   9,   5,   5,    7,   24, Salandit (2 Spd), Shiinotic (2 Sp.Def), 2 Fomantis (2 Atk)
+:::
