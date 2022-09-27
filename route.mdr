@@ -1,5 +1,6 @@
-:::tracker[species="Popplio" generation=7  baseStats="[[50, 54, 54, 66, 56, 40], [60, 69, 69, 91, 81, 50], [80, 74, 74, 126, 116, 60]"}
-:5
+:::tracker{species="Popplio" generation=7 baseStats="[[50, 54, 54, 66, 56, 40], [60, 69, 69, 91, 81, 50], [80, 74, 74, 126, 116, 60]]"}
+5: 
+  5 ->	  0,    0,    0,    0,    0,    0 
 6 -> 0,   0,   0,   0,    0,   1, #Litten (1 Spd)
 7 -> 0,   1,   0,   0,    0,   2, #Pikipek (1 Atk), Rattata (1 Spd)
 8 -> 0,   1,   0,   0,    1,   3, #Pichu (1 Spd), Litten (1 Spd)
@@ -18,5 +19,5 @@
 21 -> 9,   7,   3,   3,    4,   18, #Lillipup (1 Atk), Growlithe (1 Atk)
 22 -> 9,   7,   5,   5,    5,   18, #Drowzee (1 Sp.Def), Marowak (2 Def), Magmar (2 Sp.Atk)
 23 -> 9,   7,   5,   5,    5,   22, #Salazzle (4 Spd)
-24 -> 9,   9,   5,   5,    7,   24, Salandit (2 Spd), Shiinotic (2 Sp.Def), 2 Fomantis (2 Atk)
+24 -> 9,   9,   5,   5,    7,   24, #Salandit (2 Spd), Shiinotic (2 Sp.Def), 2 Fomantis (2 Atk)
 :::
